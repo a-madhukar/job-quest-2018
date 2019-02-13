@@ -1,6 +1,6 @@
 # Front End Test
 
-You are going to make an iOS application that allow users to get some joke from **Chuck Norris**.
+You are going to make an app that allow users to get some joke from **Chuck Norris**.
 
 > Chuck Norris once ordered a Big Mac at Burger King, and got one.
 
