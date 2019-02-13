@@ -11,7 +11,7 @@ In case you don't know who the heck is Chuck Norris. See his statement.
 (Sorry. Please just google it)
 
 ### Features
-- Users can get a joke from [Chuck Norris API](http://www.icndb.com/api/)
+- Users can get a joke from [Chuck Norris API](http://www.icndb.com/api/). Use the fetching multiple random jokes endpoint
 - Users has options to change number of result jokes, user's first name and last name
 - How to display the result is up to you.
 
